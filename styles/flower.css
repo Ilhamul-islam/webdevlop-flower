@@ -1,0 +1,31 @@
+
+
+.btn-primary{
+    border-radius: 8px;
+background: #E55473;
+}
+
+.banner{
+    display: flex;
+    padding:  30px 30px 150px;
+    background: rgba(229, 84, 115, 0.10);
+    align-items: center
+
+
+}
+
+.banner-greeting{
+     
+    color: #272727;
+font-size: 80px;
+font-weight: 700px;
+
+}
+
+
+.banner.profile-pic{
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+    border: 0;
+}

@@ -33,3 +33,14 @@ font-weight: 700px;
 .para-desc{
     color: rgba(39, 39, 39, 0.60);
 }
+
+.about{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.sectionpdes{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+font-size: 18px;
+font-weight: 400;}

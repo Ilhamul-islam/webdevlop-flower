@@ -44,3 +44,76 @@ font-weight: 700px;
     text-align: center;
 font-size: 18px;
 font-weight: 400;}
+
+.img-angel,.psize{
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 310px;
+height: 428px;
+flex-shrink: 0;
+
+}
+.disp{display:flex;
+    gap: 50px;
+align-items: center;
+}
+
+
+.img-k,.ksize{
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+width: 310px;
+height: 428px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+}
+
+.img-j,.jsize{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+width: 310px;
+height: 428px;
+flex-shrink: 0;
+}
+
+.borimg{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-top: 130px;
+    align-items: center;
+    display: flex;
+    gap: 150px;
+  
+   
+}
+
+.heri.hang.xavi{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    
+    
+    
+
+
+
+
+
+}
+.deli{
+    width: 88px;
+height: 88px;
+flex-shrink: 0;
+align-items: center;
+}
